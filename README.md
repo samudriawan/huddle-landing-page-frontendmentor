@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-[Solution URL]() |
-[Live Site URL]() |
+[Solution URL](https://www.frontendmentor.io/solutions/responsive-mobilefirst-with-sass-using-flexbox-and-grid-L9mZUbPzh) |
+[Live Site URL](https://samudriawan.github.io/huddle-landing-page-frontendmentor/) |
 [Challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
 
 ## My process
